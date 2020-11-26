@@ -1,4 +1,4 @@
-# Article-Summerization-ML
+# Article-Summarization-ML
 An Extractive based Article summarization implemented using Machine Learning, which takes url or plain-text as input and returns article summary. 
 An android application and a web application(http://get-article-summary.herokuapp.com/) were developed for the front end.
 
